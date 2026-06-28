@@ -1,0 +1,4 @@
+# ในไฟล์ .gitignore
+.env
+__pycache__/
+*.pyc
