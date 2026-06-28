@@ -1,1 +1,6 @@
 
+version: '3'
+services:
+  clip-scan:
+    build: .
+    command: python main.py
